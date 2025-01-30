@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Hello, My name is Harshil and I am learning git!
-=======
-Hello TMU waves! I am learning Git.
->>>>>>> b93630584c8ee2e1ea0efaa3993fef289ee0672a
+
